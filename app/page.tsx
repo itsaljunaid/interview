@@ -72,7 +72,7 @@ export default function Home() {
             }}
             className="flex flex-row justify-center z-20 mx-0 mb-0 mt-8 md:mt-0 md:mb-[35px] max-w-2xl md:space-x-8"
           >
-            <div className="w-1/2">
+            <div className="w-1">
               <h2 className="flex items-center font-semibold text-[1em] text-[#1a2b3b]">
                 Platform
               </h2>
